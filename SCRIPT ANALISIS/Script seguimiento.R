@@ -55,3 +55,4 @@ table$rest <-as.Date(table$fecha_hoy) - as.Date(table$cond)
 write.csv(table, "mi_df.csv")
 save(table)
 
+##
