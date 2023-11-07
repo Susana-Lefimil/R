@@ -2,7 +2,7 @@
 getwd()
 save(data, file="¨¨¨¨/In/01_12_2021/data.Rdata")
 #Numero de visitas 
-
+#
 library(EDAWR)
 
 library(dplyr)
