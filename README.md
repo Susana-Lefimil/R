@@ -1,2 +1,1 @@
-# Datos
-# PRUEBA 23_08_2023
+Comandos en R para análisis de datos. 
