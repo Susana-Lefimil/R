@@ -1,2 +1,1 @@
-Análisis bioinformáticos y comndos para la transformación de datos. 
-
+Análisis bioinformáticos y comandos para la transformación de datos.
