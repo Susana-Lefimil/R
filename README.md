@@ -1,3 +1,2 @@
-Comandos en R para análisis de datos. 
+Análisis bioinformáticos y comndos para la transformación de datos. 
 
-Utilización de distintas librerias para análisis bioinformáticos.
