@@ -39,3 +39,7 @@ df_2
 df_3<- mutate_at(df, c("hp", "drat", "wt"), ~replace(., carb!=2, 999))
 df_3
 
+## Para crear una variable con la suma de dos columnas específicas
+
+mt<-mtcars %>% mutate(var = rowSums(select(., contains("d"))))
+mt
